@@ -1,4 +1,4 @@
-# EQ4 Smart Mount Retrofit
+# AstroPilot: EQ4 Smart Mount Retrofit
 
 Goal: Convert existing EQ4 mount into a GoTo-capable system using ESP32 (OnStepX), Raspberry Pi, and iPad UI.
 
