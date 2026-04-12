@@ -21,3 +21,9 @@ All mount-specific behaviour must be defined via configuration where possible, i
 The EQ4 implementation is treated as a reference configuration, not a hardcoded system.
 
 No core platform logic should depend directly on EQ4-specific assumptions.
+
+## 2026-04-12
+
+AstroPilot will treat OnStepX as the initial motion backend, not as an optional convenience layer. That matches your architecture and avoids wasted effort duplicating core motion logic. OnStepX is explicitly designed as a computerized telescope controller and supports multiple driver styles, including Step/Dir.
+
+
