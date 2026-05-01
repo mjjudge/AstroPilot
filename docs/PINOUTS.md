@@ -4,8 +4,8 @@
 
 **Orientation (TOP VIEW):**
 
-* USB connector: **Top**
-* Antenna: **Bottom**
+* USB connector: **Bottom**
+* Antenna: **Top**
 
 ---
 
